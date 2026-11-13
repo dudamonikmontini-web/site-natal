@@ -6,7 +6,7 @@ const produtos = [
     quantidade: "750 gramas",
     categoria: "Panetones",
     descrição: ["Versões recheadas com brigadeiro gourmet, doce de leite, Nutella ou trufas, decoradas com cobertura de chocolate e frutas secas." ],
-    imagem: "img/chocotone.webp",
+    imagem: "img/chocotone.jpg",
     destaque: false
   },
 
@@ -28,7 +28,7 @@ const produtos = [
     quantidade: "10 unidades",
     categoria: "Biscoitos Festivos",
     descrição: ["Clássico de Natal com glacê real em formatos de boneco, estrela e árvore."],
-    imagem: "img/biscoitos-natalinos.webp",
+    imagem: "img/biscoitos-natalinos.jpg",
     destaque: false
   },
 
@@ -83,7 +83,7 @@ const produtos = [
     quantidade: "150 gramas",
     categoria: "Biscoitos Festivos",
     descrição: ["Palitos crocantes banhados no chocolate amargo e cobertos com avelãs."],
-    imagem: "img/sticks.png",  
+    imagem: "img/sticks.jpg",  
     destaque: false
   },
 
@@ -118,7 +118,7 @@ const produtos = [
     quantidade: "1,5 kg",
     categoria: "Bolos de Natal",
     descrição: ["Bolo em formato de guirlanda decorado com nozes tostadas, tâmaras e alecrim fresco."],
-    imagem: "img/guirlanda-nozes.webp",
+    imagem: "img/guirlanda-nozes.jpg",
     destaque: false
   },
 
@@ -140,7 +140,7 @@ const produtos = [
     quantidade: "1,5 kg",
     categoria: "Bolos de Natal",
     descrição: ["Camadas de massa de pistache com recheio cremoso e frutas vermelhas."],
-    imagem: "img/naked-pistache.jpeg ", 
+    imagem: "img/naked-pistache.jpg ", 
     destaque: true  //destaque home
   },
 
@@ -151,7 +151,7 @@ const produtos = [
     quantidade: "1,5 kg",
     categoria: "Bolos de Natal",
     descrição: ["Bolo leve e aromático coberto por glacê branco."],
-    imagem: "img/chiffon-laranja.webp ", 
+    imagem: "img/chiffon-laranja.jpg", 
     destaque: false
   },
 
@@ -162,7 +162,7 @@ const produtos = [
     quantidade: "1,5 kg",
     categoria: "Bolos de Natal",
     descrição: ["Bolo fofinho de coco com chantilly e fitas de coco seco."],
-    imagem: "img/bolo-baba-de-moca.webp",
+    imagem: "img/bolo-baba-de-moca.jpg",
     destaque: false
   },
 
@@ -184,7 +184,7 @@ const produtos = [
     quantidade: "1,5 kg",
     categoria: "Bolos de Natal",
     descrição: ["Bolo leve e aerado feito à base de claras, com aroma cítrico e cobertura branca."],
-    imagem: "img/bolo-laranja.jpeg",
+    imagem: "img/bolo-laranja.jpg",
     destaque: false
   },
 
@@ -208,7 +208,7 @@ const produtos = [
     quantidade: "1,5 kg",
     categoria: "Sobremesas de Travessa",
     descrição: ["Clássica sobremesa italiana montada em travessa de vidro para compartilhar."],
-    imagem: "img/tiramisu.webp",
+    imagem: "img/tiramisu.jpg",
     destaque: false
   },
 
@@ -231,7 +231,7 @@ const produtos = [
     categoria: "Sobremesas de Travessa",
     descrição: [
       "Base crocante com creme assado e cobertura de calda de frutas vermelhas."],
-    imagem: "img/cheesecake.webp",
+    imagem: "img/cheesecake.jpg",
     destaque: true  //destque home
   },
 
@@ -243,7 +243,7 @@ const produtos = [
     categoria: "Sobremesas de Travessa",
     descrição: [
       "Camadas de creme de pistache artesanal e ganache de chocolate branco."],
-    imagem: "img/pave-pistache.webp",
+    imagem: "img/pave-pistache.jpg",
     destaque: false
   },
 
@@ -255,7 +255,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Anel de carolinas recheado com creme diplomata de avelã e açúcar de confeiteiro."],
-    imagem: "img/choux-pastry.webp",
+    imagem: "img/choux-pastry.jpg",
     destaque: false
   },
 
@@ -267,7 +267,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Torta individual com mousse de baunilha, coulis de morango e base de brownie."],
-    imagem: "img/entremet-noel.webp",
+    imagem: "img/entremet-noel.jpg",
     destaque: false
   },
 
@@ -279,7 +279,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Torre em formato de árvore de Natal com macarons de pistache, champanhe e frutas vermelhas."],
-    imagem: "img/pinheirinho.webp",
+    imagem: "img/pinheirinho.jpg",
     destaque: true //destque home
   },
 
@@ -291,7 +291,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Taça em camadas com compota de figo, creme de mascarpone e farofa de amêndoas."],
-    imagem: "img/verrine.jpg",
+    imagem: "img/verrine.png",
     destaque: false
   },
 
@@ -303,7 +303,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Torta com base amanteigada, maçãs com cardamomo e massa folhada."],
-    imagem: "img/tartalete.webp",
+    imagem: "img/tartalete.jpg",
     destaque: false
   },
 
@@ -315,7 +315,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Esfera de chocolate recheada com mousse de chocolate amargo e crocante de praliné."],
-    imagem: "img/esfera-chocolate.webp",
+    imagem: "img/esfera-chocolate.png",
     destaque: false
   },
 
@@ -341,7 +341,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Massa folhada crocante recheada com creme de amêndoas, damascos e nozes tostadas."],
-    imagem: "img/torta-noz-pecan.webp",
+    imagem: "img/torta-noz-pecan.png",
     destaque: false
   },
 
@@ -353,7 +353,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Blocos macios de chocolate branco com cranberry e pistache."],
-    imagem: "img/fudge-branco.webp",
+    imagem: "img/fudge-branco.png",
     destaque: false
   },
 
@@ -377,7 +377,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Base sablée com creme frangipane, fatias de caqui e mel."],
-    imagem: "img/torta-caqui.jpg",
+    imagem: "img/torta-caqui.png",
     destaque: false
   },
 
@@ -389,7 +389,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Sobremesa aerada com geleia de romã e espumante."],
-    imagem: "img/roma.jpeg",
+    imagem: "img/roma.webp",
     destaque: false
   },
 
@@ -401,7 +401,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Torta rústica recheada com compota de ameixas e castanhas brasileiras."],
-    imagem: "img/crostata-ameixa.jpg",
+    imagem: "img/crostata-ameixa.webp",
     destaque: true  //destque home
   },
 
@@ -426,7 +426,7 @@ const produtos = [
     descrição: [
       "Camadas crocantes de massa folhada com creme de baunilha e morangos frescos."
     ],
-    imagem: "img/mil-folhas.jpg",
+    imagem: "img/mil-folhas.webp",
     destaque: false
   },
 
@@ -439,7 +439,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Tortinha com ganache de chocolate intenso e toque de flor de sal."],
-    imagem: "img/tartalete-chocolate.jpg",
+    imagem: "img/tartalete-chocolate.webp",
     destaque: false
   },
 
@@ -451,7 +451,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Doce tradicional feito com gemas e amêndoas, decorado com fios de ovos."],
-    imagem: "img/toucinho-fios-ovo.jpg",
+    imagem: "img/toucinho-fios-ovo.webp",
     destaque: false
   },
 
@@ -475,7 +475,7 @@ const produtos = [
     categoria: "Doces de Natal",
     descrição: [
       "Donuts fofinhos decorados com temática de Natal feito com chocolate e confeitos festivos."],
-    imagem: "img/donuts.webp",
+    imagem: "img/donuts.jpg",
     destaque: false
   },
 
@@ -499,7 +499,7 @@ const produtos = [
     categoria: "Kits e Presentes",
     descrição: [
       "Quarteto de mini panetones nos sabores gotas de chocolate, doce de leite com nozes, brigadeiro gourmet e frutas cristalizadas."],
-    imagem: "img/mini-panetones.jpg",
+    imagem: "img/mini-panetones.webp",
     destaque: false
   },
 
@@ -511,7 +511,7 @@ const produtos = [
     categoria: "Kits e Presentes",
     descrição: [
       "Caneca temática recheada de mini biscoitos amanteigados, preparada para presentear."],
-    imagem: "img/caneca-biscoito.jpg",
+    imagem: "img/caneca-biscoito.webp",
     destaque: true   //destaque home
   },
 
@@ -537,7 +537,7 @@ const produtos = [
     categoria: "Kits e Presentes",
     descrição: [
       "Combinação de bolo pequeno de especiarias, pote de biscoitos, geleia artesanal e sachês de chá festivo."],
-    imagem: "img/cesta-de-natal.jpeg",
+    imagem: "img/cesta-de-natal.webp",
     destaque: false
   },
 
@@ -549,7 +549,7 @@ const produtos = [
     categoria: "Kits e Presentes",
     descrição: [
       "Pote de cerâmica decorado com quebra-nozes recheado com sortimento de biscoitos finos amanteigados."],
-    imagem: "img/pote-biscoito.webp",
+    imagem: "img/pote-biscoito.jpg",
     destaque: false
   },
 
@@ -561,7 +561,7 @@ const produtos = [
     categoria: "Kits e Presentes",
     descrição: [
       "Caixa com 12 doces variados, incluindo mini brownies, trufas de panetone e biscoitos recheados."],
-    imagem: "img/kit-petit.jpg",
+    imagem: "img/kit-petit.webp",
     destaque: false
   },
 
@@ -573,7 +573,7 @@ const produtos = [
     categoria: "Kits e Presentes",
     descrição: [
       "Vale-presente para resgatar uma sobremesa especial na semana do Natal."],
-    imagem: "img/voucher.jpg",
+    imagem: "img/voucher.webp",
     destaque: false
   },
 
@@ -585,7 +585,7 @@ const produtos = [
     categoria: "Kits e Presentes",
     descrição: [
       "Seleção de brigadeiros de nozes, vinho do Porto, churros e pistache, decorados com confeitos."],
-    imagem: "img/caixa-brigadeiros.jpg",
+    imagem: "img/caixa-brigadeiros.webp",
     destaque: false
   }
 ];
